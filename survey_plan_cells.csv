@@ -1,0 +1,2141 @@
+version_id,gender,age,region,respondents
+v01,Male,18-24,Auckland,4
+v01,Male,18-24,Rest of North Is.,1
+v01,Male,18-24,Rest of South Is.,1
+v01,Male,25-34,Auckland,6
+v01,Male,25-34,Wellington,3
+v01,Male,25-34,Rest of North Is.,2
+v01,Male,25-34,Canterbury,4
+v01,Male,25-34,Rest of South Is.,3
+v01,Male,35-44,Auckland,6
+v01,Male,35-44,Wellington,3
+v01,Male,35-44,Rest of North Is.,3
+v01,Male,35-44,Canterbury,2
+v01,Male,35-44,Rest of South Is.,2
+v01,Male,45-54,Auckland,3
+v01,Male,45-54,Wellington,3
+v01,Male,45-54,Rest of North Is.,5
+v01,Male,45-54,Rest of South Is.,4
+v01,Male,55-64,Auckland,3
+v01,Male,55-64,Rest of North Is.,7
+v01,Male,55-64,Rest of South Is.,2
+v01,Male,65+,Auckland,3
+v01,Male,65+,Wellington,2
+v01,Male,65+,Rest of North Is.,5
+v01,Male,65+,Canterbury,3
+v01,Male,65+,Rest of South Is.,4
+v01,Female,18-24,Auckland,3
+v01,Female,18-24,Wellington,3
+v01,Female,18-24,Rest of North Is.,5
+v01,Female,18-24,Canterbury,4
+v01,Female,18-24,Rest of South Is.,1
+v01,Female,25-34,Auckland,5
+v01,Female,25-34,Wellington,2
+v01,Female,25-34,Canterbury,1
+v01,Female,25-34,Rest of South Is.,5
+v01,Female,35-44,Auckland,6
+v01,Female,35-44,Wellington,2
+v01,Female,35-44,Rest of North Is.,1
+v01,Female,35-44,Rest of South Is.,4
+v01,Female,45-54,Auckland,4
+v01,Female,45-54,Rest of North Is.,5
+v01,Female,45-54,Canterbury,4
+v01,Female,45-54,Rest of South Is.,2
+v01,Female,55-64,Auckland,6
+v01,Female,55-64,Rest of North Is.,6
+v01,Female,55-64,Canterbury,4
+v01,Female,65+,Auckland,11
+v01,Female,65+,Rest of North Is.,3
+v01,Female,65+,Canterbury,1
+v02,Male,18-24,Auckland,5
+v02,Male,18-24,Wellington,1
+v02,Male,18-24,Rest of North Is.,1
+v02,Male,18-24,Canterbury,2
+v02,Male,18-24,Rest of South Is.,1
+v02,Male,25-34,Auckland,8
+v02,Male,25-34,Wellington,3
+v02,Male,25-34,Rest of North Is.,1
+v02,Male,25-34,Canterbury,6
+v02,Male,35-44,Auckland,9
+v02,Male,35-44,Wellington,4
+v02,Male,35-44,Rest of North Is.,4
+v02,Male,35-44,Rest of South Is.,3
+v02,Male,45-54,Auckland,1
+v02,Male,45-54,Wellington,1
+v02,Male,45-54,Rest of North Is.,5
+v02,Male,45-54,Rest of South Is.,4
+v02,Male,55-64,Auckland,4
+v02,Male,55-64,Wellington,1
+v02,Male,55-64,Rest of North Is.,3
+v02,Male,55-64,Canterbury,2
+v02,Male,55-64,Rest of South Is.,1
+v02,Male,65+,Auckland,6
+v02,Male,65+,Rest of South Is.,4
+v02,Female,18-24,Auckland,6
+v02,Female,18-24,Rest of North Is.,4
+v02,Female,18-24,Rest of South Is.,2
+v02,Female,25-34,Auckland,2
+v02,Female,25-34,Wellington,1
+v02,Female,25-34,Rest of North Is.,4
+v02,Female,25-34,Canterbury,2
+v02,Female,25-34,Rest of South Is.,1
+v02,Female,35-44,Rest of North Is.,4
+v02,Female,35-44,Canterbury,3
+v02,Female,45-54,Auckland,6
+v02,Female,45-54,Rest of North Is.,6
+v02,Female,45-54,Canterbury,3
+v02,Female,45-54,Rest of South Is.,2
+v02,Female,55-64,Auckland,3
+v02,Female,55-64,Wellington,2
+v02,Female,55-64,Rest of North Is.,3
+v02,Female,55-64,Canterbury,1
+v02,Female,55-64,Rest of South Is.,4
+v02,Female,65+,Auckland,4
+v02,Female,65+,Wellington,6
+v02,Female,65+,Rest of North Is.,6
+v02,Female,65+,Canterbury,2
+v02,Female,65+,Rest of South Is.,5
+v03,Male,18-24,Auckland,4
+v03,Male,18-24,Rest of North Is.,3
+v03,Male,18-24,Canterbury,1
+v03,Male,25-34,Auckland,2
+v03,Male,25-34,Wellington,1
+v03,Male,25-34,Rest of North Is.,3
+v03,Male,25-34,Canterbury,1
+v03,Male,25-34,Rest of South Is.,5
+v03,Male,35-44,Auckland,3
+v03,Male,35-44,Rest of North Is.,2
+v03,Male,35-44,Canterbury,2
+v03,Male,35-44,Rest of South Is.,1
+v03,Male,45-54,Auckland,6
+v03,Male,45-54,Rest of North Is.,8
+v03,Male,45-54,Canterbury,3
+v03,Male,55-64,Auckland,8
+v03,Male,55-64,Wellington,2
+v03,Male,55-64,Rest of North Is.,1
+v03,Male,55-64,Canterbury,1
+v03,Male,55-64,Rest of South Is.,2
+v03,Male,65+,Auckland,2
+v03,Male,65+,Wellington,2
+v03,Male,65+,Rest of North Is.,2
+v03,Male,65+,Rest of South Is.,4
+v03,Female,18-24,Auckland,6
+v03,Female,18-24,Rest of North Is.,3
+v03,Female,18-24,Rest of South Is.,2
+v03,Female,25-34,Auckland,3
+v03,Female,25-34,Wellington,3
+v03,Female,25-34,Rest of North Is.,4
+v03,Female,25-34,Canterbury,3
+v03,Female,35-44,Auckland,3
+v03,Female,35-44,Wellington,3
+v03,Female,35-44,Rest of North Is.,3
+v03,Female,35-44,Rest of South Is.,7
+v03,Female,45-54,Auckland,2
+v03,Female,45-54,Wellington,1
+v03,Female,45-54,Rest of North Is.,2
+v03,Female,45-54,Canterbury,1
+v03,Female,45-54,Rest of South Is.,1
+v03,Female,55-64,Rest of North Is.,2
+v03,Female,55-64,Canterbury,2
+v03,Female,55-64,Rest of South Is.,2
+v03,Female,65+,Auckland,8
+v03,Female,65+,Wellington,3
+v03,Female,65+,Rest of North Is.,2
+v03,Female,65+,Canterbury,3
+v04,Male,18-24,Auckland,2
+v04,Male,18-24,Wellington,1
+v04,Male,18-24,Rest of North Is.,2
+v04,Male,18-24,Canterbury,1
+v04,Male,18-24,Rest of South Is.,1
+v04,Male,25-34,Auckland,4
+v04,Male,25-34,Rest of North Is.,7
+v04,Male,35-44,Auckland,3
+v04,Male,35-44,Wellington,3
+v04,Male,35-44,Rest of North Is.,1
+v04,Male,35-44,Canterbury,2
+v04,Male,35-44,Rest of South Is.,2
+v04,Male,45-54,Auckland,2
+v04,Male,45-54,Wellington,3
+v04,Male,45-54,Canterbury,2
+v04,Male,45-54,Rest of South Is.,3
+v04,Male,55-64,Auckland,4
+v04,Male,55-64,Wellington,1
+v04,Male,55-64,Rest of North Is.,3
+v04,Male,55-64,Canterbury,3
+v04,Male,55-64,Rest of South Is.,3
+v04,Male,65+,Auckland,1
+v04,Male,65+,Wellington,1
+v04,Male,65+,Rest of North Is.,6
+v04,Male,65+,Rest of South Is.,2
+v04,Female,18-24,Auckland,6
+v04,Female,18-24,Wellington,1
+v04,Female,18-24,Rest of South Is.,1
+v04,Female,25-34,Auckland,6
+v04,Female,25-34,Wellington,1
+v04,Female,25-34,Rest of North Is.,6
+v04,Female,25-34,Rest of South Is.,3
+v04,Female,35-44,Auckland,4
+v04,Female,35-44,Wellington,1
+v04,Female,35-44,Rest of North Is.,2
+v04,Female,35-44,Canterbury,2
+v04,Female,35-44,Rest of South Is.,2
+v04,Female,45-54,Auckland,6
+v04,Female,45-54,Wellington,1
+v04,Female,45-54,Rest of North Is.,2
+v04,Female,45-54,Canterbury,2
+v04,Female,55-64,Auckland,2
+v04,Female,55-64,Canterbury,1
+v04,Female,55-64,Rest of South Is.,2
+v04,Female,65+,Auckland,3
+v04,Female,65+,Wellington,2
+v04,Female,65+,Rest of North Is.,4
+v04,Female,65+,Canterbury,3
+v04,Female,65+,Rest of South Is.,4
+v05,Male,18-24,Auckland,1
+v05,Male,18-24,Wellington,2
+v05,Male,18-24,Canterbury,3
+v05,Male,18-24,Rest of South Is.,2
+v05,Male,25-34,Auckland,5
+v05,Male,25-34,Wellington,2
+v05,Male,25-34,Rest of North Is.,2
+v05,Male,25-34,Rest of South Is.,2
+v05,Male,35-44,Auckland,1
+v05,Male,35-44,Rest of North Is.,3
+v05,Male,35-44,Canterbury,2
+v05,Male,35-44,Rest of South Is.,2
+v05,Male,45-54,Auckland,3
+v05,Male,45-54,Wellington,2
+v05,Male,45-54,Rest of North Is.,3
+v05,Male,45-54,Canterbury,1
+v05,Male,45-54,Rest of South Is.,1
+v05,Male,55-64,Auckland,2
+v05,Male,55-64,Wellington,3
+v05,Male,55-64,Rest of North Is.,4
+v05,Male,55-64,Rest of South Is.,1
+v05,Male,65+,Auckland,2
+v05,Male,65+,Rest of North Is.,6
+v05,Male,65+,Canterbury,2
+v05,Male,65+,Rest of South Is.,4
+v05,Female,18-24,Auckland,6
+v05,Female,18-24,Wellington,2
+v05,Female,18-24,Canterbury,2
+v05,Female,25-34,Auckland,4
+v05,Female,25-34,Rest of North Is.,2
+v05,Female,25-34,Canterbury,2
+v05,Female,25-34,Rest of South Is.,5
+v05,Female,35-44,Auckland,8
+v05,Female,35-44,Rest of North Is.,3
+v05,Female,35-44,Canterbury,2
+v05,Female,45-54,Auckland,2
+v05,Female,45-54,Rest of North Is.,5
+v05,Female,45-54,Canterbury,4
+v05,Female,45-54,Rest of South Is.,2
+v05,Female,55-64,Auckland,8
+v05,Female,55-64,Wellington,1
+v05,Female,55-64,Rest of South Is.,1
+v05,Female,65+,Auckland,3
+v05,Female,65+,Rest of North Is.,4
+v05,Female,65+,Rest of South Is.,2
+v06,Male,18-24,Wellington,1
+v06,Male,18-24,Rest of North Is.,6
+v06,Male,18-24,Canterbury,1
+v06,Male,18-24,Rest of South Is.,2
+v06,Male,25-34,Auckland,1
+v06,Male,25-34,Wellington,2
+v06,Male,25-34,Rest of North Is.,4
+v06,Male,25-34,Rest of South Is.,4
+v06,Male,35-44,Auckland,15
+v06,Male,45-54,Auckland,2
+v06,Male,45-54,Rest of North Is.,3
+v06,Male,45-54,Canterbury,1
+v06,Male,45-54,Rest of South Is.,3
+v06,Male,55-64,Auckland,4
+v06,Male,55-64,Wellington,1
+v06,Male,55-64,Rest of North Is.,2
+v06,Male,55-64,Rest of South Is.,2
+v06,Male,65+,Auckland,2
+v06,Male,65+,Wellington,2
+v06,Male,65+,Canterbury,3
+v06,Male,65+,Rest of South Is.,2
+v06,Female,18-24,Auckland,3
+v06,Female,18-24,Wellington,1
+v06,Female,18-24,Rest of South Is.,1
+v06,Female,25-34,Auckland,5
+v06,Female,25-34,Wellington,1
+v06,Female,25-34,Rest of North Is.,3
+v06,Female,25-34,Canterbury,2
+v06,Female,25-34,Rest of South Is.,2
+v06,Female,35-44,Auckland,3
+v06,Female,35-44,Wellington,3
+v06,Female,35-44,Rest of North Is.,2
+v06,Female,45-54,Auckland,2
+v06,Female,45-54,Wellington,2
+v06,Female,45-54,Rest of North Is.,5
+v06,Female,45-54,Canterbury,3
+v06,Female,55-64,Auckland,2
+v06,Female,55-64,Wellington,1
+v06,Female,55-64,Rest of North Is.,4
+v06,Female,55-64,Canterbury,2
+v06,Female,55-64,Rest of South Is.,2
+v06,Female,65+,Auckland,4
+v06,Female,65+,Wellington,1
+v06,Female,65+,Rest of North Is.,3
+v06,Female,65+,Canterbury,4
+v06,Female,65+,Rest of South Is.,3
+v07,Male,18-24,Auckland,2
+v07,Male,18-24,Rest of North Is.,2
+v07,Male,18-24,Canterbury,1
+v07,Male,25-34,Auckland,6
+v07,Male,25-34,Wellington,3
+v07,Male,25-34,Rest of North Is.,2
+v07,Male,25-34,Canterbury,1
+v07,Male,25-34,Rest of South Is.,3
+v07,Male,35-44,Auckland,1
+v07,Male,35-44,Wellington,2
+v07,Male,35-44,Rest of North Is.,5
+v07,Male,35-44,Canterbury,3
+v07,Male,45-54,Auckland,5
+v07,Male,45-54,Wellington,1
+v07,Male,45-54,Rest of North Is.,2
+v07,Male,45-54,Rest of South Is.,2
+v07,Male,55-64,Auckland,2
+v07,Male,55-64,Rest of North Is.,2
+v07,Male,55-64,Canterbury,3
+v07,Male,55-64,Rest of South Is.,1
+v07,Male,65+,Auckland,7
+v07,Male,65+,Rest of North Is.,5
+v07,Male,65+,Rest of South Is.,1
+v07,Female,18-24,Auckland,5
+v07,Female,18-24,Wellington,1
+v07,Female,18-24,Rest of North Is.,3
+v07,Female,18-24,Canterbury,1
+v07,Female,18-24,Rest of South Is.,1
+v07,Female,25-34,Auckland,2
+v07,Female,25-34,Wellington,3
+v07,Female,25-34,Rest of North Is.,1
+v07,Female,25-34,Canterbury,2
+v07,Female,35-44,Auckland,6
+v07,Female,35-44,Wellington,2
+v07,Female,35-44,Canterbury,1
+v07,Female,35-44,Rest of South Is.,3
+v07,Female,45-54,Auckland,1
+v07,Female,45-54,Rest of North Is.,3
+v07,Female,45-54,Canterbury,2
+v07,Female,45-54,Rest of South Is.,4
+v07,Female,55-64,Auckland,1
+v07,Female,55-64,Wellington,3
+v07,Female,55-64,Rest of North Is.,1
+v07,Female,55-64,Canterbury,2
+v07,Female,55-64,Rest of South Is.,3
+v07,Female,65+,Auckland,4
+v07,Female,65+,Rest of North Is.,5
+v07,Female,65+,Rest of South Is.,3
+v08,Male,18-24,Rest of South Is.,2
+v08,Male,25-34,Auckland,5
+v08,Male,25-34,Wellington,2
+v08,Male,25-34,Rest of North Is.,2
+v08,Male,35-44,Auckland,5
+v08,Male,35-44,Wellington,1
+v08,Male,35-44,Rest of North Is.,2
+v08,Male,35-44,Canterbury,1
+v08,Male,35-44,Rest of South Is.,2
+v08,Male,45-54,Auckland,4
+v08,Male,45-54,Wellington,1
+v08,Male,45-54,Rest of North Is.,1
+v08,Male,45-54,Canterbury,2
+v08,Male,45-54,Rest of South Is.,1
+v08,Male,55-64,Auckland,3
+v08,Male,55-64,Wellington,3
+v08,Male,55-64,Rest of North Is.,1
+v08,Male,55-64,Canterbury,1
+v08,Male,55-64,Rest of South Is.,3
+v08,Male,65+,Auckland,5
+v08,Male,65+,Wellington,1
+v08,Male,65+,Rest of North Is.,4
+v08,Male,65+,Canterbury,4
+v08,Male,65+,Rest of South Is.,4
+v08,Female,18-24,Auckland,4
+v08,Female,18-24,Rest of North Is.,5
+v08,Female,18-24,Canterbury,2
+v08,Female,18-24,Rest of South Is.,3
+v08,Female,25-34,Auckland,5
+v08,Female,25-34,Wellington,1
+v08,Female,25-34,Rest of North Is.,5
+v08,Female,25-34,Canterbury,2
+v08,Female,25-34,Rest of South Is.,2
+v08,Female,35-44,Auckland,1
+v08,Female,35-44,Wellington,1
+v08,Female,35-44,Rest of North Is.,6
+v08,Female,35-44,Canterbury,1
+v08,Female,35-44,Rest of South Is.,1
+v08,Female,45-54,Auckland,1
+v08,Female,45-54,Wellington,3
+v08,Female,45-54,Rest of North Is.,5
+v08,Female,45-54,Canterbury,1
+v08,Female,45-54,Rest of South Is.,1
+v08,Female,55-64,Auckland,6
+v08,Female,55-64,Rest of South Is.,1
+v08,Female,65+,Auckland,3
+v08,Female,65+,Wellington,1
+v08,Female,65+,Rest of North Is.,1
+v08,Female,65+,Canterbury,1
+v09,Male,18-24,Auckland,4
+v09,Male,18-24,Rest of North Is.,3
+v09,Male,18-24,Canterbury,1
+v09,Male,18-24,Rest of South Is.,1
+v09,Male,25-34,Rest of North Is.,4
+v09,Male,25-34,Rest of South Is.,6
+v09,Male,35-44,Auckland,6
+v09,Male,35-44,Rest of North Is.,4
+v09,Male,35-44,Canterbury,1
+v09,Male,35-44,Rest of South Is.,1
+v09,Male,45-54,Auckland,5
+v09,Male,45-54,Rest of North Is.,2
+v09,Male,45-54,Canterbury,4
+v09,Male,55-64,Auckland,2
+v09,Male,55-64,Wellington,1
+v09,Male,55-64,Canterbury,2
+v09,Male,65+,Auckland,3
+v09,Male,65+,Wellington,1
+v09,Male,65+,Rest of North Is.,6
+v09,Male,65+,Canterbury,3
+v09,Male,65+,Rest of South Is.,1
+v09,Female,18-24,Auckland,5
+v09,Female,18-24,Wellington,1
+v09,Female,18-24,Rest of North Is.,1
+v09,Female,25-34,Auckland,5
+v09,Female,25-34,Wellington,1
+v09,Female,25-34,Rest of North Is.,4
+v09,Female,25-34,Rest of South Is.,3
+v09,Female,35-44,Auckland,2
+v09,Female,35-44,Rest of North Is.,2
+v09,Female,35-44,Canterbury,1
+v09,Female,35-44,Rest of South Is.,5
+v09,Female,45-54,Auckland,1
+v09,Female,45-54,Wellington,3
+v09,Female,45-54,Rest of North Is.,3
+v09,Female,45-54,Rest of South Is.,2
+v09,Female,55-64,Auckland,5
+v09,Female,55-64,Wellington,4
+v09,Female,55-64,Rest of North Is.,1
+v09,Female,55-64,Canterbury,3
+v09,Female,55-64,Rest of South Is.,1
+v09,Female,65+,Auckland,4
+v09,Female,65+,Wellington,3
+v09,Female,65+,Rest of North Is.,1
+v09,Female,65+,Rest of South Is.,1
+v10,Male,18-24,Auckland,3
+v10,Male,18-24,Wellington,1
+v10,Male,18-24,Rest of North Is.,1
+v10,Male,18-24,Canterbury,2
+v10,Male,25-34,Canterbury,2
+v10,Male,25-34,Rest of South Is.,3
+v10,Male,35-44,Auckland,5
+v10,Male,35-44,Wellington,1
+v10,Male,35-44,Rest of North Is.,2
+v10,Male,35-44,Canterbury,1
+v10,Male,35-44,Rest of South Is.,1
+v10,Male,45-54,Auckland,6
+v10,Male,45-54,Wellington,2
+v10,Male,45-54,Rest of North Is.,1
+v10,Male,45-54,Rest of South Is.,1
+v10,Male,55-64,Auckland,4
+v10,Male,55-64,Wellington,2
+v10,Male,55-64,Rest of North Is.,3
+v10,Male,55-64,Rest of South Is.,3
+v10,Male,65+,Auckland,5
+v10,Male,65+,Wellington,2
+v10,Male,65+,Rest of North Is.,2
+v10,Male,65+,Canterbury,3
+v10,Male,65+,Rest of South Is.,1
+v10,Female,18-24,Rest of North Is.,2
+v10,Female,18-24,Canterbury,2
+v10,Female,18-24,Rest of South Is.,4
+v10,Female,25-34,Auckland,5
+v10,Female,25-34,Wellington,2
+v10,Female,25-34,Rest of North Is.,4
+v10,Female,25-34,Canterbury,4
+v10,Female,25-34,Rest of South Is.,3
+v10,Female,35-44,Auckland,3
+v10,Female,35-44,Wellington,1
+v10,Female,35-44,Rest of North Is.,3
+v10,Female,35-44,Rest of South Is.,2
+v10,Female,45-54,Auckland,2
+v10,Female,45-54,Rest of North Is.,5
+v10,Female,45-54,Canterbury,1
+v10,Female,45-54,Rest of South Is.,2
+v10,Female,55-64,Wellington,1
+v10,Female,55-64,Rest of North Is.,5
+v10,Female,55-64,Canterbury,1
+v10,Female,55-64,Rest of South Is.,2
+v10,Female,65+,Auckland,7
+v10,Female,65+,Rest of North Is.,2
+v11,Male,18-24,Auckland,3
+v11,Male,18-24,Rest of North Is.,1
+v11,Male,18-24,Rest of South Is.,2
+v11,Male,25-34,Auckland,2
+v11,Male,25-34,Wellington,1
+v11,Male,25-34,Rest of North Is.,6
+v11,Male,25-34,Canterbury,2
+v11,Male,25-34,Rest of South Is.,1
+v11,Male,35-44,Auckland,2
+v11,Male,35-44,Wellington,1
+v11,Male,35-44,Rest of North Is.,1
+v11,Male,35-44,Rest of South Is.,6
+v11,Male,45-54,Auckland,3
+v11,Male,45-54,Rest of North Is.,1
+v11,Male,45-54,Canterbury,1
+v11,Male,45-54,Rest of South Is.,3
+v11,Male,55-64,Auckland,5
+v11,Male,55-64,Wellington,2
+v11,Male,55-64,Rest of South Is.,2
+v11,Male,65+,Auckland,3
+v11,Male,65+,Wellington,1
+v11,Male,65+,Rest of North Is.,4
+v11,Male,65+,Canterbury,2
+v11,Male,65+,Rest of South Is.,1
+v11,Female,18-24,Auckland,5
+v11,Female,18-24,Rest of North Is.,2
+v11,Female,18-24,Canterbury,2
+v11,Female,18-24,Rest of South Is.,1
+v11,Female,25-34,Auckland,4
+v11,Female,25-34,Wellington,2
+v11,Female,25-34,Rest of North Is.,4
+v11,Female,25-34,Rest of South Is.,1
+v11,Female,35-44,Auckland,5
+v11,Female,35-44,Rest of North Is.,3
+v11,Female,35-44,Canterbury,2
+v11,Female,45-54,Auckland,7
+v11,Female,45-54,Wellington,2
+v11,Female,45-54,Rest of North Is.,1
+v11,Female,45-54,Canterbury,2
+v11,Female,55-64,Auckland,1
+v11,Female,55-64,Wellington,1
+v11,Female,55-64,Rest of North Is.,3
+v11,Female,55-64,Canterbury,1
+v11,Female,55-64,Rest of South Is.,2
+v11,Female,65+,Auckland,3
+v11,Female,65+,Wellington,1
+v11,Female,65+,Rest of North Is.,2
+v11,Female,65+,Canterbury,3
+v11,Female,65+,Rest of South Is.,1
+v12,Male,18-24,Auckland,4
+v12,Male,18-24,Rest of North Is.,4
+v12,Male,18-24,Canterbury,1
+v12,Male,18-24,Rest of South Is.,1
+v12,Male,25-34,Auckland,3
+v12,Male,25-34,Wellington,4
+v12,Male,25-34,Rest of North Is.,2
+v12,Male,25-34,Canterbury,2
+v12,Male,25-34,Rest of South Is.,2
+v12,Male,35-44,Auckland,1
+v12,Male,35-44,Wellington,2
+v12,Male,35-44,Rest of North Is.,3
+v12,Male,35-44,Canterbury,3
+v12,Male,45-54,Auckland,5
+v12,Male,45-54,Rest of North Is.,1
+v12,Male,45-54,Rest of South Is.,1
+v12,Male,55-64,Wellington,2
+v12,Male,55-64,Rest of North Is.,4
+v12,Male,55-64,Canterbury,1
+v12,Male,65+,Auckland,3
+v12,Male,65+,Rest of North Is.,4
+v12,Male,65+,Rest of South Is.,3
+v12,Female,18-24,Auckland,1
+v12,Female,18-24,Rest of North Is.,2
+v12,Female,18-24,Rest of South Is.,2
+v12,Female,25-34,Auckland,3
+v12,Female,25-34,Wellington,2
+v12,Female,25-34,Rest of North Is.,1
+v12,Female,25-34,Canterbury,1
+v12,Female,25-34,Rest of South Is.,1
+v12,Female,35-44,Auckland,6
+v12,Female,35-44,Rest of North Is.,2
+v12,Female,35-44,Canterbury,3
+v12,Female,45-54,Auckland,6
+v12,Female,45-54,Rest of North Is.,3
+v12,Female,45-54,Rest of South Is.,4
+v12,Female,55-64,Auckland,3
+v12,Female,55-64,Wellington,1
+v12,Female,55-64,Rest of North Is.,2
+v12,Female,55-64,Canterbury,2
+v12,Female,55-64,Rest of South Is.,3
+v12,Female,65+,Auckland,5
+v12,Female,65+,Rest of North Is.,2
+v12,Female,65+,Canterbury,2
+v12,Female,65+,Rest of South Is.,2
+v13,Male,18-24,Auckland,1
+v13,Male,18-24,Rest of North Is.,3
+v13,Male,18-24,Canterbury,1
+v13,Male,18-24,Rest of South Is.,3
+v13,Male,25-34,Auckland,6
+v13,Male,25-34,Rest of North Is.,2
+v13,Male,25-34,Canterbury,2
+v13,Male,25-34,Rest of South Is.,1
+v13,Male,35-44,Auckland,3
+v13,Male,35-44,Wellington,2
+v13,Male,35-44,Rest of North Is.,2
+v13,Male,45-54,Auckland,1
+v13,Male,45-54,Wellington,3
+v13,Male,45-54,Rest of North Is.,3
+v13,Male,45-54,Canterbury,1
+v13,Male,55-64,Auckland,4
+v13,Male,55-64,Wellington,1
+v13,Male,55-64,Canterbury,1
+v13,Male,55-64,Rest of South Is.,1
+v13,Male,65+,Auckland,1
+v13,Male,65+,Wellington,3
+v13,Male,65+,Rest of North Is.,8
+v13,Male,65+,Rest of South Is.,2
+v13,Female,18-24,Auckland,2
+v13,Female,18-24,Rest of North Is.,2
+v13,Female,18-24,Rest of South Is.,2
+v13,Female,25-34,Auckland,5
+v13,Female,25-34,Wellington,1
+v13,Female,25-34,Canterbury,1
+v13,Female,25-34,Rest of South Is.,6
+v13,Female,35-44,Auckland,6
+v13,Female,35-44,Wellington,1
+v13,Female,35-44,Rest of North Is.,2
+v13,Female,35-44,Canterbury,2
+v13,Female,35-44,Rest of South Is.,1
+v13,Female,45-54,Auckland,5
+v13,Female,45-54,Wellington,1
+v13,Female,45-54,Rest of North Is.,3
+v13,Female,45-54,Rest of South Is.,1
+v13,Female,55-64,Auckland,4
+v13,Female,55-64,Rest of North Is.,2
+v13,Female,55-64,Canterbury,1
+v13,Female,55-64,Rest of South Is.,2
+v13,Female,65+,Wellington,2
+v13,Female,65+,Rest of North Is.,1
+v13,Female,65+,Canterbury,4
+v13,Female,65+,Rest of South Is.,1
+v14,Male,18-24,Auckland,5
+v14,Male,18-24,Wellington,1
+v14,Male,18-24,Rest of North Is.,1
+v14,Male,18-24,Canterbury,2
+v14,Male,25-34,Auckland,6
+v14,Male,25-34,Wellington,1
+v14,Male,25-34,Rest of North Is.,1
+v14,Male,25-34,Canterbury,1
+v14,Male,25-34,Rest of South Is.,3
+v14,Male,35-44,Auckland,1
+v14,Male,35-44,Wellington,1
+v14,Male,35-44,Rest of North Is.,3
+v14,Male,35-44,Canterbury,1
+v14,Male,35-44,Rest of South Is.,1
+v14,Male,45-54,Auckland,2
+v14,Male,45-54,Wellington,1
+v14,Male,45-54,Rest of North Is.,2
+v14,Male,45-54,Canterbury,1
+v14,Male,45-54,Rest of South Is.,2
+v14,Male,55-64,Auckland,3
+v14,Male,55-64,Rest of North Is.,2
+v14,Male,55-64,Canterbury,1
+v14,Male,55-64,Rest of South Is.,2
+v14,Male,65+,Auckland,4
+v14,Male,65+,Wellington,1
+v14,Male,65+,Rest of North Is.,1
+v14,Male,65+,Canterbury,1
+v14,Male,65+,Rest of South Is.,3
+v14,Female,18-24,Auckland,3
+v14,Female,18-24,Rest of North Is.,1
+v14,Female,18-24,Canterbury,1
+v14,Female,18-24,Rest of South Is.,1
+v14,Female,25-34,Auckland,4
+v14,Female,25-34,Rest of North Is.,1
+v14,Female,25-34,Canterbury,4
+v14,Female,35-44,Auckland,3
+v14,Female,35-44,Wellington,2
+v14,Female,35-44,Rest of North Is.,2
+v14,Female,35-44,Rest of South Is.,5
+v14,Female,45-54,Auckland,1
+v14,Female,45-54,Wellington,2
+v14,Female,45-54,Rest of North Is.,4
+v14,Female,45-54,Canterbury,2
+v14,Female,45-54,Rest of South Is.,1
+v14,Female,55-64,Auckland,2
+v14,Female,55-64,Wellington,1
+v14,Female,55-64,Rest of North Is.,3
+v14,Female,55-64,Canterbury,1
+v14,Female,55-64,Rest of South Is.,1
+v14,Female,65+,Auckland,3
+v14,Female,65+,Wellington,2
+v14,Female,65+,Rest of North Is.,6
+v15,Male,18-24,Auckland,1
+v15,Male,18-24,Wellington,2
+v15,Male,18-24,Rest of North Is.,4
+v15,Male,18-24,Rest of South Is.,3
+v15,Male,25-34,Auckland,3
+v15,Male,25-34,Rest of North Is.,1
+v15,Male,25-34,Canterbury,2
+v15,Male,35-44,Auckland,1
+v15,Male,35-44,Rest of North Is.,3
+v15,Male,35-44,Rest of South Is.,1
+v15,Male,45-54,Auckland,5
+v15,Male,45-54,Rest of North Is.,6
+v15,Male,45-54,Canterbury,1
+v15,Male,45-54,Rest of South Is.,1
+v15,Male,55-64,Auckland,3
+v15,Male,55-64,Rest of North Is.,3
+v15,Male,55-64,Canterbury,2
+v15,Male,55-64,Rest of South Is.,2
+v15,Male,65+,Auckland,3
+v15,Male,65+,Canterbury,1
+v15,Male,65+,Rest of South Is.,4
+v15,Female,18-24,Wellington,1
+v15,Female,18-24,Rest of North Is.,3
+v15,Female,18-24,Rest of South Is.,1
+v15,Female,25-34,Auckland,4
+v15,Female,25-34,Wellington,2
+v15,Female,25-34,Rest of North Is.,2
+v15,Female,25-34,Canterbury,4
+v15,Female,35-44,Auckland,5
+v15,Female,35-44,Wellington,2
+v15,Female,35-44,Rest of North Is.,1
+v15,Female,35-44,Canterbury,2
+v15,Female,35-44,Rest of South Is.,2
+v15,Female,45-54,Auckland,1
+v15,Female,45-54,Rest of North Is.,3
+v15,Female,45-54,Canterbury,1
+v15,Female,55-64,Auckland,2
+v15,Female,55-64,Wellington,1
+v15,Female,55-64,Canterbury,1
+v15,Female,55-64,Rest of South Is.,2
+v15,Female,65+,Auckland,6
+v15,Female,65+,Wellington,3
+v15,Female,65+,Rest of North Is.,1
+v15,Female,65+,Rest of South Is.,2
+v16,Male,18-24,Auckland,1
+v16,Male,18-24,Wellington,3
+v16,Male,18-24,Rest of South Is.,1
+v16,Male,25-34,Auckland,2
+v16,Male,25-34,Rest of North Is.,8
+v16,Male,25-34,Rest of South Is.,1
+v16,Male,35-44,Auckland,1
+v16,Male,35-44,Wellington,2
+v16,Male,35-44,Rest of North Is.,2
+v16,Male,35-44,Rest of South Is.,4
+v16,Male,45-54,Auckland,5
+v16,Male,45-54,Canterbury,2
+v16,Male,45-54,Rest of South Is.,2
+v16,Male,55-64,Auckland,4
+v16,Male,55-64,Canterbury,2
+v16,Male,55-64,Rest of South Is.,1
+v16,Male,65+,Auckland,4
+v16,Male,65+,Wellington,1
+v16,Male,65+,Canterbury,4
+v16,Female,18-24,Wellington,2
+v16,Female,18-24,Rest of North Is.,2
+v16,Female,18-24,Canterbury,2
+v16,Female,18-24,Rest of South Is.,1
+v16,Female,25-34,Auckland,3
+v16,Female,25-34,Rest of North Is.,2
+v16,Female,25-34,Canterbury,1
+v16,Female,25-34,Rest of South Is.,5
+v16,Female,35-44,Auckland,5
+v16,Female,35-44,Wellington,1
+v16,Female,35-44,Rest of North Is.,1
+v16,Female,35-44,Canterbury,1
+v16,Female,45-54,Auckland,3
+v16,Female,45-54,Wellington,2
+v16,Female,45-54,Rest of North Is.,2
+v16,Female,45-54,Rest of South Is.,2
+v16,Female,55-64,Auckland,5
+v16,Female,55-64,Rest of North Is.,3
+v16,Female,55-64,Canterbury,1
+v16,Female,65+,Auckland,2
+v16,Female,65+,Wellington,1
+v16,Female,65+,Rest of North Is.,5
+v16,Female,65+,Rest of South Is.,2
+v17,Male,18-24,Auckland,3
+v17,Male,18-24,Wellington,1
+v17,Male,18-24,Rest of North Is.,1
+v17,Male,18-24,Canterbury,1
+v17,Male,18-24,Rest of South Is.,2
+v17,Male,25-34,Rest of North Is.,4
+v17,Male,25-34,Canterbury,3
+v17,Male,25-34,Rest of South Is.,3
+v17,Male,35-44,Auckland,2
+v17,Male,35-44,Rest of North Is.,2
+v17,Male,45-54,Auckland,3
+v17,Male,45-54,Wellington,1
+v17,Male,45-54,Rest of North Is.,1
+v17,Male,45-54,Rest of South Is.,1
+v17,Male,55-64,Auckland,4
+v17,Male,55-64,Rest of North Is.,2
+v17,Male,55-64,Canterbury,2
+v17,Male,55-64,Rest of South Is.,1
+v17,Male,65+,Auckland,4
+v17,Male,65+,Wellington,2
+v17,Male,65+,Rest of North Is.,2
+v17,Male,65+,Rest of South Is.,1
+v17,Female,18-24,Auckland,1
+v17,Female,18-24,Rest of North Is.,2
+v17,Female,18-24,Canterbury,1
+v17,Female,25-34,Auckland,4
+v17,Female,25-34,Wellington,1
+v17,Female,25-34,Rest of North Is.,3
+v17,Female,35-44,Auckland,2
+v17,Female,35-44,Rest of North Is.,4
+v17,Female,35-44,Canterbury,2
+v17,Female,35-44,Rest of South Is.,3
+v17,Female,45-54,Auckland,3
+v17,Female,45-54,Wellington,3
+v17,Female,45-54,Rest of North Is.,1
+v17,Female,45-54,Canterbury,3
+v17,Female,45-54,Rest of South Is.,1
+v17,Female,55-64,Auckland,3
+v17,Female,55-64,Rest of North Is.,3
+v17,Female,55-64,Rest of South Is.,1
+v17,Female,65+,Auckland,5
+v17,Female,65+,Wellington,1
+v17,Female,65+,Canterbury,2
+v17,Female,65+,Rest of South Is.,1
+v18,Male,18-24,Auckland,4
+v18,Male,18-24,Wellington,1
+v18,Male,18-24,Rest of North Is.,2
+v18,Male,25-34,Auckland,3
+v18,Male,25-34,Rest of North Is.,1
+v18,Male,25-34,Canterbury,1
+v18,Male,25-34,Rest of South Is.,4
+v18,Male,35-44,Auckland,2
+v18,Male,35-44,Wellington,1
+v18,Male,35-44,Canterbury,1
+v18,Male,45-54,Auckland,3
+v18,Male,45-54,Wellington,1
+v18,Male,45-54,Rest of North Is.,5
+v18,Male,55-64,Auckland,2
+v18,Male,55-64,Rest of North Is.,3
+v18,Male,55-64,Canterbury,2
+v18,Male,65+,Auckland,3
+v18,Male,65+,Rest of North Is.,1
+v18,Male,65+,Canterbury,3
+v18,Male,65+,Rest of South Is.,2
+v18,Female,18-24,Auckland,1
+v18,Female,18-24,Rest of North Is.,1
+v18,Female,18-24,Rest of South Is.,3
+v18,Female,25-34,Auckland,4
+v18,Female,25-34,Wellington,2
+v18,Female,25-34,Rest of North Is.,1
+v18,Female,25-34,Rest of South Is.,3
+v18,Female,35-44,Auckland,2
+v18,Female,35-44,Wellington,3
+v18,Female,35-44,Rest of North Is.,3
+v18,Female,35-44,Canterbury,1
+v18,Female,35-44,Rest of South Is.,3
+v18,Female,45-54,Auckland,4
+v18,Female,45-54,Wellington,1
+v18,Female,45-54,Rest of North Is.,1
+v18,Female,45-54,Rest of South Is.,1
+v18,Female,55-64,Auckland,1
+v18,Female,55-64,Rest of North Is.,3
+v18,Female,55-64,Canterbury,2
+v18,Female,65+,Auckland,2
+v18,Female,65+,Wellington,1
+v18,Female,65+,Rest of North Is.,3
+v18,Female,65+,Canterbury,2
+v18,Female,65+,Rest of South Is.,1
+v19,Male,18-24,Auckland,1
+v19,Male,18-24,Rest of North Is.,1
+v19,Male,18-24,Canterbury,2
+v19,Male,18-24,Rest of South Is.,2
+v19,Male,25-34,Auckland,2
+v19,Male,25-34,Rest of North Is.,4
+v19,Male,25-34,Rest of South Is.,1
+v19,Male,35-44,Auckland,4
+v19,Male,35-44,Rest of North Is.,1
+v19,Male,35-44,Rest of South Is.,1
+v19,Male,45-54,Auckland,4
+v19,Male,45-54,Wellington,2
+v19,Male,45-54,Canterbury,2
+v19,Male,45-54,Rest of South Is.,3
+v19,Male,55-64,Auckland,4
+v19,Male,55-64,Rest of North Is.,1
+v19,Male,55-64,Canterbury,1
+v19,Male,55-64,Rest of South Is.,1
+v19,Male,65+,Auckland,4
+v19,Male,65+,Rest of North Is.,3
+v19,Male,65+,Rest of South Is.,1
+v19,Female,18-24,Wellington,1
+v19,Female,18-24,Canterbury,3
+v19,Female,18-24,Rest of South Is.,3
+v19,Female,25-34,Auckland,5
+v19,Female,25-34,Wellington,1
+v19,Female,25-34,Rest of North Is.,2
+v19,Female,25-34,Canterbury,1
+v19,Female,25-34,Rest of South Is.,1
+v19,Female,35-44,Auckland,1
+v19,Female,35-44,Rest of North Is.,6
+v19,Female,35-44,Canterbury,2
+v19,Female,45-54,Auckland,4
+v19,Female,45-54,Wellington,1
+v19,Female,55-64,Wellington,3
+v19,Female,55-64,Rest of North Is.,3
+v19,Female,55-64,Rest of South Is.,1
+v19,Female,65+,Auckland,3
+v19,Female,65+,Wellington,1
+v19,Female,65+,Rest of North Is.,3
+v19,Female,65+,Canterbury,2
+v19,Female,65+,Rest of South Is.,2
+v20,Male,18-24,Auckland,2
+v20,Male,18-24,Wellington,1
+v20,Male,18-24,Rest of North Is.,1
+v20,Male,18-24,Rest of South Is.,3
+v20,Male,25-34,Auckland,6
+v20,Male,25-34,Wellington,1
+v20,Male,25-34,Rest of North Is.,4
+v20,Male,35-44,Auckland,4
+v20,Male,35-44,Rest of North Is.,1
+v20,Male,45-54,Auckland,3
+v20,Male,45-54,Rest of North Is.,2
+v20,Male,45-54,Canterbury,3
+v20,Male,55-64,Auckland,1
+v20,Male,55-64,Rest of North Is.,2
+v20,Male,55-64,Rest of South Is.,1
+v20,Male,65+,Auckland,3
+v20,Male,65+,Wellington,3
+v20,Male,65+,Rest of North Is.,1
+v20,Male,65+,Canterbury,2
+v20,Male,65+,Rest of South Is.,2
+v20,Female,18-24,Auckland,3
+v20,Female,18-24,Rest of North Is.,1
+v20,Female,18-24,Rest of South Is.,1
+v20,Female,25-34,Wellington,2
+v20,Female,25-34,Rest of North Is.,3
+v20,Female,25-34,Canterbury,1
+v20,Female,25-34,Rest of South Is.,1
+v20,Female,35-44,Auckland,5
+v20,Female,35-44,Rest of North Is.,3
+v20,Female,35-44,Canterbury,1
+v20,Female,35-44,Rest of South Is.,2
+v20,Female,45-54,Auckland,2
+v20,Female,45-54,Wellington,1
+v20,Female,45-54,Rest of North Is.,2
+v20,Female,45-54,Canterbury,1
+v20,Female,45-54,Rest of South Is.,2
+v20,Female,55-64,Auckland,3
+v20,Female,55-64,Wellington,1
+v20,Female,55-64,Rest of North Is.,2
+v20,Female,55-64,Canterbury,2
+v20,Female,55-64,Rest of South Is.,2
+v20,Female,65+,Auckland,1
+v20,Female,65+,Wellington,1
+v20,Female,65+,Rest of North Is.,1
+v20,Female,65+,Canterbury,3
+v20,Female,65+,Rest of South Is.,1
+v21,Male,18-24,Wellington,1
+v21,Male,18-24,Rest of North Is.,3
+v21,Male,18-24,Rest of South Is.,2
+v21,Male,25-34,Auckland,8
+v21,Male,25-34,Rest of South Is.,1
+v21,Male,35-44,Auckland,5
+v21,Male,35-44,Wellington,1
+v21,Male,35-44,Rest of North Is.,2
+v21,Male,35-44,Rest of South Is.,1
+v21,Male,45-54,Wellington,1
+v21,Male,45-54,Rest of North Is.,1
+v21,Male,45-54,Canterbury,1
+v21,Male,45-54,Rest of South Is.,1
+v21,Male,55-64,Rest of North Is.,3
+v21,Male,55-64,Rest of South Is.,2
+v21,Male,65+,Auckland,6
+v21,Male,65+,Rest of North Is.,3
+v21,Male,65+,Canterbury,2
+v21,Female,18-24,Auckland,2
+v21,Female,18-24,Wellington,1
+v21,Female,18-24,Canterbury,1
+v21,Female,18-24,Rest of South Is.,1
+v21,Female,25-34,Auckland,1
+v21,Female,25-34,Wellington,1
+v21,Female,25-34,Rest of North Is.,2
+v21,Female,25-34,Canterbury,2
+v21,Female,25-34,Rest of South Is.,1
+v21,Female,35-44,Auckland,2
+v21,Female,35-44,Wellington,2
+v21,Female,35-44,Canterbury,3
+v21,Female,35-44,Rest of South Is.,1
+v21,Female,45-54,Auckland,3
+v21,Female,45-54,Wellington,2
+v21,Female,45-54,Rest of North Is.,2
+v21,Female,45-54,Canterbury,1
+v21,Female,45-54,Rest of South Is.,3
+v21,Female,55-64,Auckland,2
+v21,Female,55-64,Wellington,1
+v21,Female,55-64,Rest of North Is.,5
+v21,Female,55-64,Rest of South Is.,1
+v21,Female,65+,Auckland,1
+v21,Female,65+,Wellington,1
+v21,Female,65+,Rest of North Is.,2
+v21,Female,65+,Canterbury,1
+v21,Female,65+,Rest of South Is.,1
+v22,Male,18-24,Auckland,3
+v22,Male,18-24,Rest of North Is.,1
+v22,Male,18-24,Canterbury,3
+v22,Male,25-34,Auckland,3
+v22,Male,25-34,Wellington,2
+v22,Male,25-34,Rest of North Is.,1
+v22,Male,25-34,Rest of South Is.,1
+v22,Male,35-44,Rest of North Is.,7
+v22,Male,35-44,Canterbury,2
+v22,Male,35-44,Rest of South Is.,1
+v22,Male,45-54,Auckland,1
+v22,Male,45-54,Wellington,1
+v22,Male,45-54,Rest of North Is.,3
+v22,Male,45-54,Canterbury,1
+v22,Male,55-64,Auckland,3
+v22,Male,55-64,Canterbury,1
+v22,Male,55-64,Rest of South Is.,1
+v22,Male,65+,Auckland,5
+v22,Male,65+,Canterbury,3
+v22,Male,65+,Rest of South Is.,1
+v22,Female,18-24,Auckland,1
+v22,Female,18-24,Rest of North Is.,1
+v22,Female,18-24,Canterbury,1
+v22,Female,18-24,Rest of South Is.,2
+v22,Female,25-34,Auckland,2
+v22,Female,25-34,Wellington,2
+v22,Female,25-34,Rest of North Is.,5
+v22,Female,35-44,Auckland,2
+v22,Female,35-44,Wellington,1
+v22,Female,35-44,Rest of North Is.,1
+v22,Female,35-44,Rest of South Is.,1
+v22,Female,45-54,Auckland,3
+v22,Female,45-54,Wellington,2
+v22,Female,45-54,Rest of North Is.,2
+v22,Female,45-54,Rest of South Is.,3
+v22,Female,55-64,Auckland,5
+v22,Female,55-64,Rest of North Is.,2
+v22,Female,55-64,Rest of South Is.,2
+v22,Female,65+,Auckland,4
+v22,Female,65+,Wellington,1
+v22,Female,65+,Rest of North Is.,1
+v22,Female,65+,Rest of South Is.,2
+v23,Male,18-24,Auckland,4
+v23,Male,18-24,Rest of North Is.,3
+v23,Male,18-24,Rest of South Is.,1
+v23,Male,25-34,Auckland,1
+v23,Male,25-34,Wellington,2
+v23,Male,25-34,Canterbury,1
+v23,Male,25-34,Rest of South Is.,1
+v23,Male,35-44,Auckland,1
+v23,Male,35-44,Wellington,1
+v23,Male,35-44,Canterbury,1
+v23,Male,35-44,Rest of South Is.,6
+v23,Male,45-54,Auckland,2
+v23,Male,45-54,Wellington,2
+v23,Male,45-54,Rest of North Is.,1
+v23,Male,45-54,Rest of South Is.,1
+v23,Male,55-64,Auckland,6
+v23,Male,55-64,Rest of North Is.,1
+v23,Male,55-64,Canterbury,2
+v23,Male,65+,Auckland,2
+v23,Male,65+,Rest of North Is.,4
+v23,Male,65+,Canterbury,1
+v23,Female,18-24,Auckland,1
+v23,Female,18-24,Wellington,2
+v23,Female,18-24,Canterbury,2
+v23,Female,25-34,Auckland,5
+v23,Female,25-34,Wellington,2
+v23,Female,25-34,Rest of North Is.,1
+v23,Female,25-34,Canterbury,3
+v23,Female,35-44,Auckland,1
+v23,Female,35-44,Wellington,1
+v23,Female,35-44,Rest of North Is.,1
+v23,Female,35-44,Canterbury,1
+v23,Female,35-44,Rest of South Is.,2
+v23,Female,45-54,Auckland,3
+v23,Female,45-54,Rest of North Is.,5
+v23,Female,45-54,Canterbury,1
+v23,Female,45-54,Rest of South Is.,1
+v23,Female,55-64,Auckland,1
+v23,Female,55-64,Rest of North Is.,2
+v23,Female,55-64,Rest of South Is.,2
+v23,Female,65+,Auckland,3
+v23,Female,65+,Rest of North Is.,4
+v23,Female,65+,Canterbury,2
+v24,Male,18-24,Auckland,5
+v24,Male,18-24,Rest of North Is.,1
+v24,Male,18-24,Rest of South Is.,1
+v24,Male,25-34,Auckland,3
+v24,Male,25-34,Wellington,2
+v24,Male,25-34,Rest of North Is.,2
+v24,Male,35-44,Auckland,4
+v24,Male,35-44,Canterbury,1
+v24,Male,35-44,Rest of South Is.,2
+v24,Male,45-54,Auckland,4
+v24,Male,45-54,Rest of North Is.,3
+v24,Male,45-54,Rest of South Is.,3
+v24,Male,55-64,Rest of North Is.,2
+v24,Male,65+,Auckland,2
+v24,Male,65+,Wellington,2
+v24,Male,65+,Rest of North Is.,4
+v24,Male,65+,Canterbury,4
+v24,Female,18-24,Auckland,1
+v24,Female,18-24,Wellington,1
+v24,Female,18-24,Rest of North Is.,1
+v24,Female,18-24,Canterbury,1
+v24,Female,18-24,Rest of South Is.,1
+v24,Female,25-34,Auckland,6
+v24,Female,25-34,Rest of North Is.,2
+v24,Female,25-34,Canterbury,2
+v24,Female,35-44,Auckland,1
+v24,Female,35-44,Wellington,2
+v24,Female,35-44,Rest of North Is.,2
+v24,Female,35-44,Canterbury,1
+v24,Female,35-44,Rest of South Is.,2
+v24,Female,45-54,Auckland,2
+v24,Female,45-54,Rest of North Is.,2
+v24,Female,45-54,Rest of South Is.,1
+v24,Female,55-64,Auckland,2
+v24,Female,55-64,Wellington,1
+v24,Female,55-64,Rest of North Is.,2
+v24,Female,55-64,Canterbury,2
+v24,Female,55-64,Rest of South Is.,2
+v24,Female,65+,Auckland,1
+v24,Female,65+,Wellington,1
+v24,Female,65+,Rest of North Is.,1
+v24,Female,65+,Rest of South Is.,4
+v25,Male,18-24,Auckland,1
+v25,Male,18-24,Rest of North Is.,1
+v25,Male,18-24,Rest of South Is.,1
+v25,Male,25-34,Auckland,1
+v25,Male,25-34,Rest of North Is.,2
+v25,Male,25-34,Canterbury,1
+v25,Male,35-44,Auckland,1
+v25,Male,35-44,Rest of North Is.,3
+v25,Male,35-44,Canterbury,4
+v25,Male,35-44,Rest of South Is.,1
+v25,Male,45-54,Auckland,1
+v25,Male,45-54,Wellington,1
+v25,Male,45-54,Rest of North Is.,1
+v25,Male,45-54,Canterbury,3
+v25,Male,45-54,Rest of South Is.,3
+v25,Male,55-64,Auckland,4
+v25,Male,55-64,Wellington,1
+v25,Male,55-64,Rest of North Is.,2
+v25,Male,55-64,Canterbury,1
+v25,Male,65+,Auckland,2
+v25,Male,65+,Rest of North Is.,3
+v25,Male,65+,Canterbury,1
+v25,Male,65+,Rest of South Is.,3
+v25,Female,18-24,Auckland,5
+v25,Female,18-24,Wellington,1
+v25,Female,18-24,Rest of North Is.,2
+v25,Female,25-34,Auckland,5
+v25,Female,25-34,Wellington,1
+v25,Female,25-34,Rest of North Is.,3
+v25,Female,25-34,Rest of South Is.,4
+v25,Female,35-44,Wellington,2
+v25,Female,35-44,Rest of North Is.,2
+v25,Female,35-44,Canterbury,1
+v25,Female,45-54,Auckland,5
+v25,Female,45-54,Rest of South Is.,1
+v25,Female,55-64,Auckland,2
+v25,Female,55-64,Wellington,2
+v25,Female,55-64,Rest of North Is.,1
+v25,Female,55-64,Rest of South Is.,1
+v25,Female,65+,Auckland,2
+v25,Female,65+,Wellington,1
+v25,Female,65+,Rest of North Is.,3
+v25,Female,65+,Canterbury,1
+v26,Male,18-24,Wellington,1
+v26,Male,18-24,Rest of North Is.,3
+v26,Male,18-24,Canterbury,1
+v26,Male,18-24,Rest of South Is.,1
+v26,Male,25-34,Auckland,5
+v26,Male,25-34,Rest of North Is.,1
+v26,Male,25-34,Canterbury,1
+v26,Male,35-44,Auckland,3
+v26,Male,35-44,Rest of North Is.,2
+v26,Male,35-44,Canterbury,1
+v26,Male,35-44,Rest of South Is.,1
+v26,Male,45-54,Auckland,2
+v26,Male,45-54,Wellington,2
+v26,Male,45-54,Rest of South Is.,1
+v26,Male,55-64,Rest of North Is.,2
+v26,Male,55-64,Rest of South Is.,1
+v26,Male,65+,Auckland,4
+v26,Male,65+,Wellington,2
+v26,Male,65+,Rest of North Is.,2
+v26,Male,65+,Canterbury,2
+v26,Male,65+,Rest of South Is.,2
+v26,Female,18-24,Auckland,1
+v26,Female,18-24,Wellington,1
+v26,Female,18-24,Canterbury,1
+v26,Female,18-24,Rest of South Is.,1
+v26,Female,25-34,Auckland,4
+v26,Female,25-34,Rest of North Is.,4
+v26,Female,25-34,Rest of South Is.,2
+v26,Female,35-44,Auckland,1
+v26,Female,35-44,Wellington,1
+v26,Female,35-44,Canterbury,2
+v26,Female,35-44,Rest of South Is.,2
+v26,Female,45-54,Auckland,3
+v26,Female,45-54,Wellington,1
+v26,Female,45-54,Rest of North Is.,4
+v26,Female,45-54,Canterbury,1
+v26,Female,55-64,Auckland,4
+v26,Female,55-64,Wellington,1
+v26,Female,55-64,Rest of North Is.,1
+v26,Female,55-64,Canterbury,2
+v26,Female,55-64,Rest of South Is.,2
+v26,Female,65+,Auckland,2
+v26,Female,65+,Rest of North Is.,2
+v26,Female,65+,Canterbury,1
+v26,Female,65+,Rest of South Is.,1
+v27,Male,18-24,Wellington,1
+v27,Male,18-24,Rest of North Is.,1
+v27,Male,18-24,Canterbury,1
+v27,Male,25-34,Auckland,5
+v27,Male,25-34,Wellington,3
+v27,Male,25-34,Rest of North Is.,1
+v27,Male,35-44,Auckland,1
+v27,Male,35-44,Rest of North Is.,3
+v27,Male,35-44,Canterbury,1
+v27,Male,45-54,Rest of North Is.,1
+v27,Male,45-54,Canterbury,4
+v27,Male,45-54,Rest of South Is.,2
+v27,Male,55-64,Rest of North Is.,1
+v27,Male,55-64,Rest of South Is.,5
+v27,Male,65+,Auckland,4
+v27,Male,65+,Rest of North Is.,4
+v27,Male,65+,Rest of South Is.,1
+v27,Female,18-24,Auckland,1
+v27,Female,18-24,Wellington,4
+v27,Female,18-24,Rest of North Is.,1
+v27,Female,18-24,Rest of South Is.,1
+v27,Female,25-34,Auckland,1
+v27,Female,25-34,Wellington,2
+v27,Female,25-34,Canterbury,2
+v27,Female,25-34,Rest of South Is.,1
+v27,Female,35-44,Auckland,6
+v27,Female,35-44,Rest of North Is.,1
+v27,Female,35-44,Rest of South Is.,1
+v27,Female,45-54,Auckland,3
+v27,Female,45-54,Rest of North Is.,2
+v27,Female,45-54,Canterbury,1
+v27,Female,45-54,Rest of South Is.,1
+v27,Female,55-64,Auckland,4
+v27,Female,55-64,Rest of North Is.,1
+v27,Female,55-64,Rest of South Is.,1
+v27,Female,65+,Auckland,4
+v27,Female,65+,Rest of North Is.,4
+v27,Female,65+,Canterbury,1
+v28,Male,18-24,Auckland,1
+v28,Male,18-24,Canterbury,2
+v28,Male,18-24,Rest of South Is.,1
+v28,Male,25-34,Auckland,1
+v28,Male,25-34,Rest of North Is.,2
+v28,Male,25-34,Rest of South Is.,4
+v28,Male,35-44,Auckland,3
+v28,Male,35-44,Wellington,3
+v28,Male,35-44,Rest of North Is.,1
+v28,Male,35-44,Canterbury,1
+v28,Male,35-44,Rest of South Is.,1
+v28,Male,45-54,Auckland,1
+v28,Male,45-54,Rest of North Is.,1
+v28,Male,45-54,Canterbury,1
+v28,Male,45-54,Rest of South Is.,2
+v28,Male,55-64,Auckland,1
+v28,Male,55-64,Rest of North Is.,4
+v28,Male,55-64,Canterbury,2
+v28,Male,65+,Auckland,2
+v28,Male,65+,Wellington,3
+v28,Male,65+,Rest of North Is.,1
+v28,Male,65+,Rest of South Is.,2
+v28,Female,18-24,Auckland,3
+v28,Female,18-24,Rest of North Is.,1
+v28,Female,18-24,Canterbury,2
+v28,Female,25-34,Auckland,2
+v28,Female,25-34,Wellington,1
+v28,Female,25-34,Rest of North Is.,4
+v28,Female,35-44,Auckland,2
+v28,Female,35-44,Wellington,1
+v28,Female,35-44,Rest of North Is.,2
+v28,Female,35-44,Canterbury,1
+v28,Female,45-54,Auckland,6
+v28,Female,45-54,Rest of North Is.,1
+v28,Female,45-54,Rest of South Is.,1
+v28,Female,55-64,Auckland,5
+v28,Female,55-64,Rest of South Is.,2
+v28,Female,65+,Auckland,2
+v28,Female,65+,Rest of North Is.,3
+v28,Female,65+,Canterbury,1
+v28,Female,65+,Rest of South Is.,1
+v29,Male,18-24,Auckland,1
+v29,Male,18-24,Wellington,1
+v29,Male,18-24,Rest of North Is.,1
+v29,Male,18-24,Rest of South Is.,2
+v29,Male,25-34,Rest of North Is.,5
+v29,Male,25-34,Canterbury,1
+v29,Male,25-34,Rest of South Is.,1
+v29,Male,35-44,Auckland,4
+v29,Male,35-44,Rest of North Is.,2
+v29,Male,35-44,Canterbury,1
+v29,Male,35-44,Rest of South Is.,1
+v29,Male,45-54,Auckland,4
+v29,Male,45-54,Wellington,1
+v29,Male,45-54,Canterbury,1
+v29,Male,55-64,Auckland,1
+v29,Male,55-64,Wellington,3
+v29,Male,55-64,Rest of North Is.,1
+v29,Male,65+,Auckland,4
+v29,Male,65+,Wellington,2
+v29,Male,65+,Rest of North Is.,1
+v29,Male,65+,Rest of South Is.,1
+v29,Female,18-24,Wellington,1
+v29,Female,18-24,Rest of North Is.,2
+v29,Female,18-24,Rest of South Is.,2
+v29,Female,25-34,Auckland,5
+v29,Female,25-34,Canterbury,1
+v29,Female,25-34,Rest of South Is.,2
+v29,Female,35-44,Auckland,4
+v29,Female,35-44,Rest of North Is.,4
+v29,Female,45-54,Auckland,3
+v29,Female,45-54,Canterbury,1
+v29,Female,45-54,Rest of South Is.,3
+v29,Female,55-64,Wellington,1
+v29,Female,55-64,Rest of North Is.,1
+v29,Female,55-64,Canterbury,2
+v29,Female,65+,Auckland,2
+v29,Female,65+,Rest of North Is.,1
+v29,Female,65+,Canterbury,2
+v29,Female,65+,Rest of South Is.,2
+v30,Male,18-24,Auckland,2
+v30,Male,18-24,Wellington,1
+v30,Male,18-24,Rest of North Is.,2
+v30,Male,25-34,Auckland,1
+v30,Male,25-34,Wellington,1
+v30,Male,25-34,Rest of North Is.,1
+v30,Male,25-34,Canterbury,1
+v30,Male,35-44,Wellington,2
+v30,Male,35-44,Rest of North Is.,1
+v30,Male,35-44,Canterbury,2
+v30,Male,35-44,Rest of South Is.,2
+v30,Male,45-54,Auckland,2
+v30,Male,45-54,Wellington,2
+v30,Male,45-54,Rest of North Is.,2
+v30,Male,55-64,Auckland,2
+v30,Male,55-64,Rest of North Is.,1
+v30,Male,55-64,Canterbury,1
+v30,Male,55-64,Rest of South Is.,2
+v30,Male,65+,Auckland,4
+v30,Male,65+,Rest of North Is.,2
+v30,Male,65+,Canterbury,1
+v30,Male,65+,Rest of South Is.,2
+v30,Female,18-24,Auckland,4
+v30,Female,18-24,Rest of North Is.,2
+v30,Female,25-34,Auckland,4
+v30,Female,25-34,Wellington,1
+v30,Female,25-34,Rest of North Is.,3
+v30,Female,25-34,Rest of South Is.,2
+v30,Female,35-44,Rest of North Is.,1
+v30,Female,35-44,Canterbury,2
+v30,Female,35-44,Rest of South Is.,3
+v30,Female,45-54,Auckland,4
+v30,Female,45-54,Wellington,1
+v30,Female,45-54,Rest of North Is.,1
+v30,Female,45-54,Canterbury,2
+v30,Female,45-54,Rest of South Is.,1
+v30,Female,55-64,Auckland,2
+v30,Female,55-64,Wellington,2
+v30,Female,65+,Auckland,2
+v30,Female,65+,Rest of North Is.,2
+v30,Female,65+,Rest of South Is.,2
+v31,Male,18-24,Auckland,1
+v31,Male,18-24,Rest of North Is.,2
+v31,Male,18-24,Rest of South Is.,2
+v31,Male,25-34,Rest of North Is.,1
+v31,Male,25-34,Canterbury,3
+v31,Male,25-34,Rest of South Is.,1
+v31,Male,35-44,Auckland,4
+v31,Male,35-44,Rest of North Is.,2
+v31,Male,35-44,Rest of South Is.,1
+v31,Male,45-54,Auckland,4
+v31,Male,45-54,Rest of North Is.,2
+v31,Male,45-54,Rest of South Is.,2
+v31,Male,55-64,Wellington,1
+v31,Male,55-64,Rest of North Is.,3
+v31,Male,55-64,Canterbury,1
+v31,Male,55-64,Rest of South Is.,1
+v31,Male,65+,Auckland,2
+v31,Male,65+,Canterbury,4
+v31,Female,18-24,Auckland,2
+v31,Female,18-24,Rest of North Is.,1
+v31,Female,18-24,Canterbury,2
+v31,Female,18-24,Rest of South Is.,1
+v31,Female,25-34,Auckland,2
+v31,Female,25-34,Wellington,2
+v31,Female,25-34,Rest of North Is.,3
+v31,Female,25-34,Rest of South Is.,3
+v31,Female,35-44,Auckland,3
+v31,Female,35-44,Wellington,1
+v31,Female,35-44,Rest of North Is.,2
+v31,Female,45-54,Wellington,3
+v31,Female,45-54,Rest of North Is.,1
+v31,Female,55-64,Auckland,4
+v31,Female,55-64,Rest of North Is.,1
+v31,Female,55-64,Rest of South Is.,1
+v31,Female,65+,Auckland,4
+v31,Female,65+,Rest of North Is.,2
+v31,Female,65+,Canterbury,1
+v31,Female,65+,Rest of South Is.,1
+v32,Male,18-24,Auckland,2
+v32,Male,18-24,Wellington,1
+v32,Male,18-24,Rest of North Is.,1
+v32,Male,18-24,Rest of South Is.,3
+v32,Male,25-34,Auckland,3
+v32,Male,25-34,Wellington,2
+v32,Male,25-34,Rest of North Is.,4
+v32,Male,25-34,Canterbury,1
+v32,Male,35-44,Auckland,1
+v32,Male,35-44,Rest of North Is.,2
+v32,Male,35-44,Canterbury,2
+v32,Male,35-44,Rest of South Is.,3
+v32,Male,45-54,Auckland,4
+v32,Male,45-54,Wellington,3
+v32,Male,55-64,Wellington,1
+v32,Male,55-64,Canterbury,1
+v32,Male,65+,Wellington,1
+v32,Male,65+,Rest of North Is.,3
+v32,Female,18-24,Auckland,2
+v32,Female,25-34,Wellington,1
+v32,Female,25-34,Rest of North Is.,2
+v32,Female,25-34,Canterbury,2
+v32,Female,35-44,Auckland,3
+v32,Female,35-44,Rest of North Is.,3
+v32,Female,45-54,Auckland,4
+v32,Female,45-54,Rest of South Is.,2
+v32,Female,55-64,Auckland,1
+v32,Female,55-64,Rest of North Is.,2
+v32,Female,55-64,Canterbury,4
+v32,Female,65+,Auckland,4
+v32,Female,65+,Rest of North Is.,1
+v32,Female,65+,Rest of South Is.,5
+v33,Male,18-24,Auckland,1
+v33,Male,18-24,Rest of North Is.,1
+v33,Male,18-24,Rest of South Is.,2
+v33,Male,25-34,Auckland,2
+v33,Male,25-34,Wellington,1
+v33,Male,25-34,Rest of North Is.,3
+v33,Male,35-44,Auckland,3
+v33,Male,35-44,Wellington,1
+v33,Male,35-44,Canterbury,1
+v33,Male,35-44,Rest of South Is.,3
+v33,Male,45-54,Auckland,3
+v33,Male,45-54,Rest of North Is.,2
+v33,Male,55-64,Auckland,2
+v33,Male,55-64,Wellington,1
+v33,Male,55-64,Rest of North Is.,1
+v33,Male,55-64,Canterbury,1
+v33,Male,65+,Auckland,5
+v33,Male,65+,Rest of North Is.,3
+v33,Male,65+,Rest of South Is.,1
+v33,Female,18-24,Wellington,1
+v33,Female,18-24,Rest of North Is.,2
+v33,Female,18-24,Canterbury,1
+v33,Female,18-24,Rest of South Is.,2
+v33,Female,25-34,Auckland,3
+v33,Female,25-34,Rest of North Is.,1
+v33,Female,25-34,Canterbury,2
+v33,Female,25-34,Rest of South Is.,1
+v33,Female,35-44,Auckland,2
+v33,Female,35-44,Wellington,1
+v33,Female,35-44,Rest of North Is.,2
+v33,Female,45-54,Auckland,1
+v33,Female,45-54,Wellington,1
+v33,Female,45-54,Rest of North Is.,3
+v33,Female,45-54,Canterbury,2
+v33,Female,55-64,Auckland,2
+v33,Female,55-64,Rest of North Is.,1
+v33,Female,55-64,Canterbury,3
+v33,Female,55-64,Rest of South Is.,1
+v33,Female,65+,Auckland,1
+v33,Female,65+,Wellington,2
+v33,Female,65+,Rest of South Is.,2
+v34,Male,18-24,Wellington,1
+v34,Male,18-24,Rest of South Is.,1
+v34,Male,25-34,Auckland,3
+v34,Male,25-34,Rest of North Is.,1
+v34,Male,25-34,Canterbury,2
+v34,Male,25-34,Rest of South Is.,1
+v34,Male,35-44,Auckland,2
+v34,Male,35-44,Wellington,3
+v34,Male,35-44,Canterbury,3
+v34,Male,35-44,Rest of South Is.,1
+v34,Male,45-54,Auckland,1
+v34,Male,45-54,Rest of North Is.,3
+v34,Male,45-54,Rest of South Is.,2
+v34,Male,55-64,Auckland,3
+v34,Male,55-64,Wellington,1
+v34,Male,55-64,Rest of North Is.,2
+v34,Male,55-64,Rest of South Is.,1
+v34,Male,65+,Auckland,2
+v34,Male,65+,Rest of North Is.,2
+v34,Male,65+,Rest of South Is.,1
+v34,Female,18-24,Auckland,2
+v34,Female,18-24,Rest of North Is.,3
+v34,Female,18-24,Canterbury,1
+v34,Female,18-24,Rest of South Is.,1
+v34,Female,25-34,Auckland,5
+v34,Female,25-34,Wellington,2
+v34,Female,35-44,Rest of North Is.,2
+v34,Female,35-44,Canterbury,2
+v34,Female,45-54,Auckland,3
+v34,Female,45-54,Rest of North Is.,2
+v34,Female,45-54,Rest of South Is.,1
+v34,Female,55-64,Auckland,3
+v34,Female,55-64,Wellington,1
+v34,Female,65+,Auckland,1
+v34,Female,65+,Wellington,1
+v34,Female,65+,Rest of North Is.,2
+v34,Female,65+,Canterbury,2
+v34,Female,65+,Rest of South Is.,3
+v35,Male,18-24,Wellington,1
+v35,Male,18-24,Rest of North Is.,2
+v35,Male,18-24,Rest of South Is.,1
+v35,Male,25-34,Auckland,3
+v35,Male,25-34,Rest of North Is.,1
+v35,Male,25-34,Canterbury,1
+v35,Male,35-44,Auckland,2
+v35,Male,35-44,Wellington,2
+v35,Male,35-44,Rest of North Is.,3
+v35,Male,35-44,Canterbury,1
+v35,Male,45-54,Rest of North Is.,2
+v35,Male,45-54,Canterbury,2
+v35,Male,45-54,Rest of South Is.,2
+v35,Male,55-64,Auckland,1
+v35,Male,55-64,Wellington,1
+v35,Male,55-64,Rest of North Is.,1
+v35,Male,55-64,Rest of South Is.,1
+v35,Male,65+,Auckland,3
+v35,Male,65+,Rest of North Is.,1
+v35,Male,65+,Rest of South Is.,2
+v35,Female,18-24,Auckland,2
+v35,Female,18-24,Rest of North Is.,1
+v35,Female,18-24,Canterbury,2
+v35,Female,25-34,Auckland,4
+v35,Female,25-34,Rest of North Is.,1
+v35,Female,25-34,Rest of South Is.,3
+v35,Female,35-44,Auckland,1
+v35,Female,35-44,Wellington,2
+v35,Female,35-44,Canterbury,1
+v35,Female,45-54,Auckland,1
+v35,Female,45-54,Wellington,1
+v35,Female,45-54,Rest of North Is.,2
+v35,Female,45-54,Canterbury,1
+v35,Female,55-64,Auckland,4
+v35,Female,55-64,Rest of North Is.,2
+v35,Female,65+,Auckland,2
+v35,Female,65+,Rest of North Is.,1
+v35,Female,65+,Canterbury,2
+v35,Female,65+,Rest of South Is.,2
+v36,Male,18-24,Auckland,1
+v36,Male,18-24,Rest of North Is.,3
+v36,Male,18-24,Canterbury,1
+v36,Male,25-34,Auckland,1
+v36,Male,25-34,Canterbury,2
+v36,Male,35-44,Auckland,2
+v36,Male,35-44,Rest of North Is.,3
+v36,Male,35-44,Canterbury,1
+v36,Male,45-54,Auckland,3
+v36,Male,45-54,Rest of North Is.,1
+v36,Male,45-54,Rest of South Is.,1
+v36,Male,55-64,Auckland,5
+v36,Male,55-64,Wellington,2
+v36,Male,55-64,Rest of South Is.,1
+v36,Male,65+,Auckland,3
+v36,Male,65+,Rest of North Is.,2
+v36,Male,65+,Rest of South Is.,1
+v36,Female,18-24,Wellington,4
+v36,Female,25-34,Wellington,3
+v36,Female,25-34,Rest of North Is.,4
+v36,Female,35-44,Auckland,3
+v36,Female,35-44,Rest of North Is.,2
+v36,Female,35-44,Rest of South Is.,1
+v36,Female,45-54,Rest of South Is.,8
+v36,Female,55-64,Auckland,2
+v36,Female,65+,Auckland,2
+v36,Female,65+,Wellington,1
+v36,Female,65+,Rest of North Is.,1
+v36,Female,65+,Canterbury,2
+v37,Male,18-24,Auckland,1
+v37,Male,18-24,Wellington,2
+v37,Male,18-24,Canterbury,2
+v37,Male,25-34,Auckland,3
+v37,Male,25-34,Wellington,2
+v37,Male,25-34,Rest of North Is.,2
+v37,Male,35-44,Auckland,1
+v37,Male,35-44,Rest of North Is.,1
+v37,Male,35-44,Rest of South Is.,2
+v37,Male,45-54,Auckland,3
+v37,Male,45-54,Rest of North Is.,3
+v37,Male,45-54,Canterbury,1
+v37,Male,55-64,Auckland,2
+v37,Male,55-64,Rest of North Is.,1
+v37,Male,55-64,Canterbury,1
+v37,Male,65+,Auckland,1
+v37,Male,65+,Canterbury,1
+v37,Male,65+,Rest of South Is.,3
+v37,Female,18-24,Wellington,1
+v37,Female,18-24,Rest of North Is.,2
+v37,Female,18-24,Rest of South Is.,1
+v37,Female,25-34,Auckland,3
+v37,Female,35-44,Auckland,3
+v37,Female,35-44,Rest of North Is.,2
+v37,Female,35-44,Canterbury,3
+v37,Female,45-54,Auckland,1
+v37,Female,45-54,Wellington,1
+v37,Female,45-54,Rest of North Is.,1
+v37,Female,55-64,Auckland,2
+v37,Female,55-64,Wellington,1
+v37,Female,55-64,Rest of North Is.,1
+v37,Female,55-64,Rest of South Is.,1
+v37,Female,65+,Auckland,1
+v37,Female,65+,Wellington,1
+v37,Female,65+,Rest of North Is.,4
+v37,Female,65+,Canterbury,1
+v37,Female,65+,Rest of South Is.,1
+v38,Male,18-24,Auckland,3
+v38,Male,18-24,Wellington,1
+v38,Male,25-34,Auckland,5
+v38,Male,25-34,Rest of North Is.,2
+v38,Male,25-34,Rest of South Is.,1
+v38,Male,35-44,Auckland,1
+v38,Male,35-44,Rest of North Is.,1
+v38,Male,35-44,Rest of South Is.,2
+v38,Male,45-54,Rest of North Is.,3
+v38,Male,45-54,Rest of South Is.,2
+v38,Male,55-64,Wellington,1
+v38,Male,55-64,Rest of North Is.,1
+v38,Male,55-64,Canterbury,2
+v38,Male,65+,Auckland,1
+v38,Male,65+,Wellington,2
+v38,Male,65+,Rest of North Is.,1
+v38,Female,18-24,Auckland,2
+v38,Female,18-24,Rest of North Is.,1
+v38,Female,25-34,Auckland,1
+v38,Female,25-34,Wellington,1
+v38,Female,25-34,Rest of North Is.,1
+v38,Female,35-44,Auckland,2
+v38,Female,35-44,Rest of North Is.,3
+v38,Female,35-44,Canterbury,1
+v38,Female,45-54,Wellington,3
+v38,Female,45-54,Rest of South Is.,1
+v38,Female,55-64,Rest of North Is.,1
+v38,Female,55-64,Canterbury,2
+v38,Female,55-64,Rest of South Is.,2
+v38,Female,65+,Auckland,3
+v38,Female,65+,Rest of North Is.,1
+v38,Female,65+,Canterbury,1
+v38,Female,65+,Rest of South Is.,1
+v39,Male,18-24,Wellington,1
+v39,Male,18-24,Rest of North Is.,1
+v39,Male,18-24,Canterbury,1
+v39,Male,25-34,Auckland,6
+v39,Male,25-34,Wellington,1
+v39,Male,25-34,Rest of South Is.,1
+v39,Male,35-44,Rest of North Is.,1
+v39,Male,35-44,Canterbury,1
+v39,Male,45-54,Wellington,1
+v39,Male,45-54,Rest of North Is.,1
+v39,Male,45-54,Canterbury,4
+v39,Male,55-64,Auckland,2
+v39,Male,55-64,Rest of North Is.,1
+v39,Male,55-64,Rest of South Is.,2
+v39,Male,65+,Auckland,1
+v39,Male,65+,Rest of South Is.,2
+v39,Female,18-24,Rest of North Is.,3
+v39,Female,25-34,Auckland,2
+v39,Female,35-44,Auckland,3
+v39,Female,35-44,Wellington,1
+v39,Female,35-44,Rest of North Is.,3
+v39,Female,35-44,Canterbury,2
+v39,Female,45-54,Wellington,2
+v39,Female,45-54,Rest of South Is.,1
+v39,Female,55-64,Auckland,3
+v39,Female,65+,Auckland,1
+v39,Female,65+,Wellington,1
+v39,Female,65+,Rest of North Is.,2
+v39,Female,65+,Rest of South Is.,3
+v40,Male,18-24,Auckland,1
+v40,Male,18-24,Wellington,1
+v40,Male,18-24,Rest of South Is.,1
+v40,Male,25-34,Auckland,1
+v40,Male,25-34,Rest of North Is.,3
+v40,Male,35-44,Auckland,2
+v40,Male,35-44,Rest of North Is.,1
+v40,Male,35-44,Canterbury,1
+v40,Male,35-44,Rest of South Is.,1
+v40,Male,45-54,Auckland,2
+v40,Male,45-54,Rest of North Is.,3
+v40,Male,45-54,Rest of South Is.,1
+v40,Male,55-64,Auckland,2
+v40,Male,55-64,Rest of North Is.,1
+v40,Male,55-64,Canterbury,1
+v40,Male,55-64,Rest of South Is.,1
+v40,Male,65+,Auckland,3
+v40,Female,18-24,Auckland,1
+v40,Female,18-24,Rest of North Is.,3
+v40,Female,18-24,Rest of South Is.,1
+v40,Female,25-34,Auckland,2
+v40,Female,25-34,Wellington,1
+v40,Female,25-34,Rest of North Is.,1
+v40,Female,25-34,Canterbury,2
+v40,Female,25-34,Rest of South Is.,1
+v40,Female,35-44,Wellington,1
+v40,Female,35-44,Rest of North Is.,1
+v40,Female,35-44,Canterbury,1
+v40,Female,35-44,Rest of South Is.,1
+v40,Female,45-54,Auckland,2
+v40,Female,55-64,Auckland,1
+v40,Female,55-64,Rest of South Is.,2
+v40,Female,65+,Auckland,1
+v40,Female,65+,Wellington,3
+v40,Female,65+,Rest of North Is.,2
+v40,Female,65+,Canterbury,1
+v41,Male,18-24,Auckland,2
+v41,Male,18-24,Rest of North Is.,2
+v41,Male,18-24,Canterbury,1
+v41,Male,25-34,Auckland,1
+v41,Male,25-34,Rest of North Is.,1
+v41,Male,25-34,Rest of South Is.,2
+v41,Male,35-44,Rest of North Is.,1
+v41,Male,45-54,Auckland,2
+v41,Male,45-54,Wellington,1
+v41,Male,45-54,Rest of North Is.,1
+v41,Male,55-64,Wellington,1
+v41,Male,55-64,Rest of North Is.,1
+v41,Male,55-64,Canterbury,1
+v41,Male,65+,Auckland,4
+v41,Male,65+,Rest of North Is.,2
+v41,Male,65+,Canterbury,2
+v41,Female,18-24,Auckland,3
+v41,Female,25-34,Auckland,2
+v41,Female,25-34,Rest of North Is.,1
+v41,Female,25-34,Rest of South Is.,1
+v41,Female,35-44,Auckland,1
+v41,Female,35-44,Wellington,2
+v41,Female,35-44,Rest of North Is.,2
+v41,Female,35-44,Rest of South Is.,2
+v41,Female,45-54,Auckland,1
+v41,Female,45-54,Wellington,1
+v41,Female,45-54,Canterbury,3
+v41,Female,55-64,Rest of North Is.,2
+v41,Female,55-64,Rest of South Is.,2
+v41,Female,65+,Auckland,2
+v41,Female,65+,Rest of South Is.,1
+v42,Male,18-24,Auckland,1
+v42,Male,18-24,Rest of North Is.,1
+v42,Male,25-34,Auckland,3
+v42,Male,25-34,Rest of South Is.,3
+v42,Male,35-44,Canterbury,1
+v42,Male,45-54,Auckland,2
+v42,Male,45-54,Rest of North Is.,2
+v42,Male,45-54,Canterbury,2
+v42,Male,45-54,Rest of South Is.,1
+v42,Male,55-64,Auckland,1
+v42,Male,55-64,Canterbury,1
+v42,Male,65+,Auckland,1
+v42,Male,65+,Rest of North Is.,3
+v42,Female,18-24,Auckland,2
+v42,Female,18-24,Wellington,1
+v42,Female,18-24,Rest of South Is.,1
+v42,Female,25-34,Auckland,1
+v42,Female,25-34,Rest of North Is.,1
+v42,Female,25-34,Canterbury,1
+v42,Female,35-44,Auckland,2
+v42,Female,35-44,Wellington,2
+v42,Female,35-44,Rest of South Is.,2
+v42,Female,45-54,Rest of North Is.,2
+v42,Female,55-64,Auckland,2
+v42,Female,55-64,Canterbury,1
+v42,Female,65+,Wellington,1
+v42,Female,65+,Rest of North Is.,1
+v42,Female,65+,Canterbury,1
+v42,Female,65+,Rest of South Is.,2
+v43,Male,18-24,Auckland,1
+v43,Male,18-24,Rest of South Is.,1
+v43,Male,25-34,Rest of North Is.,1
+v43,Male,25-34,Canterbury,3
+v43,Male,25-34,Rest of South Is.,1
+v43,Male,35-44,Rest of North Is.,1
+v43,Male,45-54,Auckland,2
+v43,Male,45-54,Wellington,1
+v43,Male,45-54,Rest of North Is.,1
+v43,Male,45-54,Rest of South Is.,1
+v43,Male,55-64,Wellington,1
+v43,Male,55-64,Rest of North Is.,3
+v43,Male,65+,Auckland,1
+v43,Male,65+,Rest of North Is.,1
+v43,Male,65+,Rest of South Is.,1
+v43,Female,18-24,Auckland,1
+v43,Female,18-24,Wellington,1
+v43,Female,25-34,Auckland,1
+v43,Female,25-34,Rest of North Is.,1
+v43,Female,25-34,Rest of South Is.,2
+v43,Female,35-44,Auckland,1
+v43,Female,35-44,Wellington,1
+v43,Female,35-44,Rest of North Is.,1
+v43,Female,35-44,Canterbury,1
+v43,Female,35-44,Rest of South Is.,1
+v43,Female,45-54,Auckland,2
+v43,Female,55-64,Auckland,3
+v43,Female,55-64,Wellington,1
+v43,Female,55-64,Rest of North Is.,1
+v43,Female,65+,Auckland,2
+v43,Female,65+,Wellington,1
+v43,Female,65+,Rest of North Is.,1
+v43,Female,65+,Rest of South Is.,1
+v44,Male,18-24,Auckland,2
+v44,Male,18-24,Wellington,1
+v44,Male,25-34,Auckland,3
+v44,Male,25-34,Wellington,1
+v44,Male,25-34,Rest of North Is.,1
+v44,Male,25-34,Rest of South Is.,1
+v44,Male,35-44,Auckland,4
+v44,Male,45-54,Rest of North Is.,1
+v44,Male,45-54,Canterbury,1
+v44,Male,45-54,Rest of South Is.,1
+v44,Male,55-64,Auckland,1
+v44,Male,65+,Auckland,2
+v44,Male,65+,Wellington,2
+v44,Female,18-24,Canterbury,2
+v44,Female,18-24,Rest of South Is.,1
+v44,Female,25-34,Canterbury,1
+v44,Female,35-44,Auckland,1
+v44,Female,35-44,Rest of North Is.,1
+v44,Female,45-54,Canterbury,2
+v44,Female,45-54,Rest of South Is.,2
+v44,Female,55-64,Rest of North Is.,6
+v44,Female,65+,Auckland,1
+v44,Female,65+,Rest of North Is.,2
+v44,Female,65+,Rest of South Is.,3
+v45,Male,18-24,Wellington,1
+v45,Male,18-24,Rest of North Is.,1
+v45,Male,25-34,Auckland,1
+v45,Male,25-34,Wellington,1
+v45,Male,25-34,Canterbury,1
+v45,Male,25-34,Rest of South Is.,1
+v45,Male,35-44,Canterbury,1
+v45,Male,35-44,Rest of South Is.,2
+v45,Male,45-54,Auckland,3
+v45,Male,45-54,Canterbury,1
+v45,Male,55-64,Auckland,1
+v45,Male,55-64,Rest of South Is.,2
+v45,Male,65+,Auckland,2
+v45,Male,65+,Canterbury,1
+v45,Female,18-24,Auckland,1
+v45,Female,18-24,Rest of North Is.,3
+v45,Female,25-34,Rest of North Is.,2
+v45,Female,25-34,Canterbury,1
+v45,Female,35-44,Auckland,1
+v45,Female,35-44,Rest of North Is.,2
+v45,Female,45-54,Auckland,4
+v45,Female,45-54,Canterbury,1
+v45,Female,55-64,Auckland,3
+v45,Female,55-64,Rest of North Is.,1
+v45,Female,65+,Wellington,1
+v45,Female,65+,Rest of North Is.,1
+v45,Female,65+,Canterbury,1
+v45,Female,65+,Rest of South Is.,1
+v46,Male,25-34,Auckland,1
+v46,Male,25-34,Rest of North Is.,1
+v46,Male,25-34,Canterbury,2
+v46,Male,25-34,Rest of South Is.,1
+v46,Male,35-44,Auckland,1
+v46,Male,35-44,Rest of South Is.,1
+v46,Male,45-54,Wellington,2
+v46,Male,45-54,Rest of North Is.,2
+v46,Male,55-64,Rest of North Is.,2
+v46,Male,65+,Wellington,1
+v46,Male,65+,Rest of South Is.,2
+v46,Female,18-24,Auckland,1
+v46,Female,18-24,Rest of North Is.,1
+v46,Female,18-24,Canterbury,1
+v46,Female,25-34,Auckland,1
+v46,Female,35-44,Auckland,2
+v46,Female,35-44,Rest of South Is.,1
+v46,Female,45-54,Auckland,2
+v46,Female,45-54,Canterbury,1
+v46,Female,55-64,Wellington,2
+v46,Female,55-64,Rest of North Is.,1
+v46,Female,55-64,Rest of South Is.,2
+v46,Female,65+,Auckland,2
+v46,Female,65+,Rest of North Is.,1
+v46,Female,65+,Canterbury,1
+v47,Male,18-24,Auckland,3
+v47,Male,18-24,Rest of North Is.,1
+v47,Male,25-34,Canterbury,1
+v47,Male,25-34,Rest of South Is.,1
+v47,Male,35-44,Rest of North Is.,3
+v47,Male,35-44,Rest of South Is.,1
+v47,Male,45-54,Rest of South Is.,2
+v47,Male,55-64,Auckland,1
+v47,Male,55-64,Wellington,1
+v47,Male,55-64,Canterbury,1
+v47,Female,18-24,Rest of South Is.,1
+v47,Female,25-34,Auckland,1
+v47,Female,25-34,Canterbury,3
+v47,Female,35-44,Auckland,3
+v47,Female,45-54,Auckland,1
+v47,Female,45-54,Rest of South Is.,3
+v47,Female,55-64,Canterbury,1
+v47,Female,65+,Auckland,2
+v47,Female,65+,Rest of North Is.,2
+v47,Female,65+,Canterbury,1
+v48,Male,18-24,Canterbury,1
+v48,Male,25-34,Auckland,1
+v48,Male,25-34,Rest of North Is.,1
+v48,Male,25-34,Canterbury,2
+v48,Male,35-44,Auckland,1
+v48,Male,35-44,Rest of North Is.,2
+v48,Male,45-54,Auckland,2
+v48,Male,55-64,Auckland,2
+v48,Male,55-64,Rest of North Is.,1
+v48,Male,65+,Auckland,1
+v48,Male,65+,Wellington,1
+v48,Female,18-24,Rest of North Is.,2
+v48,Female,18-24,Canterbury,1
+v48,Female,25-34,Rest of North Is.,1
+v48,Female,25-34,Rest of South Is.,1
+v48,Female,35-44,Rest of South Is.,1
+v48,Female,45-54,Auckland,1
+v48,Female,45-54,Rest of North Is.,1
+v48,Female,55-64,Wellington,3
+v48,Female,65+,Auckland,2
+v48,Female,65+,Wellington,1
+v48,Female,65+,Rest of North Is.,1
+v48,Female,65+,Rest of South Is.,1
+v49,Male,18-24,Auckland,2
+v49,Male,18-24,Canterbury,2
+v49,Male,25-34,Auckland,1
+v49,Male,25-34,Rest of South Is.,3
+v49,Male,35-44,Wellington,2
+v49,Male,45-54,Auckland,1
+v49,Male,55-64,Rest of South Is.,1
+v49,Male,65+,Auckland,1
+v49,Female,25-34,Rest of North Is.,3
+v49,Female,35-44,Auckland,1
+v49,Female,45-54,Auckland,1
+v49,Female,45-54,Wellington,1
+v49,Female,45-54,Rest of South Is.,1
+v49,Female,55-64,Wellington,1
+v49,Female,55-64,Rest of North Is.,1
+v49,Female,55-64,Rest of South Is.,1
+v49,Female,65+,Auckland,1
+v49,Female,65+,Wellington,1
+v49,Female,65+,Rest of North Is.,3
+v50,Male,18-24,Auckland,1
+v50,Male,25-34,Wellington,1
+v50,Male,25-34,Rest of South Is.,1
+v50,Male,35-44,Auckland,1
+v50,Male,35-44,Rest of North Is.,1
+v50,Male,35-44,Rest of South Is.,1
+v50,Male,45-54,Auckland,2
+v50,Male,55-64,Auckland,1
+v50,Male,55-64,Rest of North Is.,1
+v50,Male,65+,Wellington,1
+v50,Female,18-24,Rest of North Is.,1
+v50,Female,18-24,Rest of South Is.,1
+v50,Female,25-34,Auckland,1
+v50,Female,25-34,Canterbury,1
+v50,Female,35-44,Rest of North Is.,1
+v50,Female,35-44,Canterbury,1
+v50,Female,45-54,Rest of North Is.,1
+v50,Female,45-54,Canterbury,1
+v50,Female,55-64,Auckland,1
+v50,Female,65+,Auckland,2
+v51,Male,18-24,Auckland,1
+v51,Male,18-24,Canterbury,1
+v51,Male,25-34,Rest of North Is.,2
+v51,Male,25-34,Canterbury,1
+v51,Male,45-54,Auckland,1
+v51,Male,45-54,Canterbury,1
+v51,Male,55-64,Rest of North Is.,1
+v51,Female,25-34,Rest of North Is.,1
+v51,Female,25-34,Canterbury,1
+v51,Female,35-44,Auckland,1
+v51,Female,35-44,Rest of North Is.,1
+v51,Female,35-44,Rest of South Is.,1
+v51,Female,45-54,Canterbury,1
+v51,Female,45-54,Rest of South Is.,1
+v51,Female,55-64,Auckland,1
+v51,Female,65+,Auckland,1
+v51,Female,65+,Canterbury,1
+v51,Female,65+,Rest of South Is.,1
+v52,Male,18-24,Auckland,1
+v52,Male,25-34,Canterbury,3
+v52,Male,35-44,Auckland,1
+v52,Male,35-44,Rest of North Is.,1
+v52,Male,45-54,Rest of South Is.,1
+v52,Male,55-64,Wellington,1
+v52,Male,55-64,Rest of North Is.,1
+v52,Male,65+,Wellington,2
+v52,Female,18-24,Wellington,1
+v52,Female,18-24,Rest of North Is.,1
+v52,Female,35-44,Rest of North Is.,1
+v52,Female,35-44,Rest of South Is.,1
+v52,Female,45-54,Auckland,3
+v53,Male,18-24,Canterbury,1
+v53,Male,18-24,Rest of South Is.,1
+v53,Male,25-34,Auckland,1
+v53,Male,35-44,Rest of North Is.,2
+v53,Male,55-64,Auckland,1
+v53,Male,55-64,Wellington,1
+v53,Male,65+,Wellington,1
+v53,Female,25-34,Auckland,1
+v53,Female,25-34,Rest of North Is.,1
+v53,Female,25-34,Rest of South Is.,2
+v53,Female,35-44,Auckland,1
+v53,Female,45-54,Auckland,1
+v53,Female,45-54,Rest of North Is.,1
+v53,Female,55-64,Auckland,1
+v53,Female,65+,Wellington,1
+v54,Male,18-24,Auckland,1
+v54,Male,25-34,Wellington,1
+v54,Male,35-44,Auckland,3
+v54,Male,45-54,Canterbury,1
+v54,Male,55-64,Auckland,1
+v54,Female,18-24,Rest of South Is.,1
+v54,Female,25-34,Auckland,1
+v54,Female,25-34,Rest of North Is.,1
+v54,Female,25-34,Rest of South Is.,1
+v54,Female,35-44,Rest of South Is.,1
+v54,Female,45-54,Rest of North Is.,1
+v54,Female,55-64,Rest of North Is.,1
+v54,Female,65+,Rest of North Is.,1
+v54,Female,65+,Rest of South Is.,1
+v55,Male,18-24,Auckland,1
+v55,Male,18-24,Rest of South Is.,1
+v55,Male,25-34,Auckland,1
+v55,Male,35-44,Wellington,1
+v55,Male,45-54,Rest of North Is.,1
+v55,Male,65+,Auckland,1
+v55,Male,65+,Canterbury,1
+v55,Female,18-24,Auckland,1
+v55,Female,25-34,Rest of North Is.,1
+v55,Female,35-44,Auckland,1
+v55,Female,45-54,Rest of South Is.,1
+v55,Female,55-64,Rest of North Is.,3
+v55,Female,65+,Auckland,1
+v56,Male,18-24,Auckland,1
+v56,Male,18-24,Rest of North Is.,1
+v56,Male,25-34,Wellington,1
+v56,Male,25-34,Rest of South Is.,1
+v56,Male,55-64,Canterbury,1
+v56,Male,65+,Wellington,1
+v56,Male,65+,Rest of North Is.,1
+v56,Female,25-34,Auckland,1
+v56,Female,35-44,Rest of North Is.,1
+v56,Female,35-44,Rest of South Is.,1
+v56,Female,45-54,Auckland,1
+v56,Female,45-54,Canterbury,1
+v56,Female,55-64,Canterbury,1
+v56,Female,65+,Auckland,1
+v57,Male,18-24,Auckland,1
+v57,Male,25-34,Auckland,1
+v57,Male,25-34,Wellington,1
+v57,Male,25-34,Rest of North Is.,1
+v57,Male,35-44,Rest of North Is.,1
+v57,Male,35-44,Rest of South Is.,1
+v57,Male,55-64,Rest of South Is.,1
+v57,Female,25-34,Rest of South Is.,2
+v57,Female,45-54,Auckland,1
+v57,Female,45-54,Rest of North Is.,2
+v57,Female,65+,Auckland,2
+v58,Male,45-54,Auckland,1
+v58,Male,55-64,Auckland,1
+v58,Male,65+,Auckland,1
+v58,Female,18-24,Canterbury,1
+v58,Female,25-34,Auckland,2
+v58,Female,25-34,Rest of North Is.,3
+v58,Female,45-54,Canterbury,1
+v58,Female,65+,Rest of North Is.,1
+v59,Male,18-24,Auckland,1
+v59,Male,35-44,Auckland,1
+v59,Male,45-54,Rest of North Is.,1
+v59,Male,45-54,Canterbury,1
+v59,Male,55-64,Rest of South Is.,1
+v59,Female,18-24,Rest of North Is.,1
+v59,Female,25-34,Rest of North Is.,1
+v59,Female,65+,Auckland,2
+v60,Male,18-24,Rest of North Is.,1
+v60,Male,35-44,Rest of North Is.,1
+v60,Male,45-54,Rest of South Is.,1
+v60,Male,55-64,Auckland,1
+v60,Male,65+,Auckland,1
+v60,Female,25-34,Rest of North Is.,1
+v60,Female,25-34,Canterbury,1
+v60,Female,65+,Auckland,1
+v60,Female,65+,Rest of South Is.,1
+v61,Male,25-34,Auckland,1
+v61,Male,25-34,Rest of North Is.,1
+v61,Male,35-44,Wellington,1
+v61,Male,35-44,Rest of South Is.,1
+v61,Male,65+,Auckland,1
+v61,Female,18-24,Rest of South Is.,1
+v61,Female,25-34,Rest of South Is.,1
+v61,Female,45-54,Rest of South Is.,1
+v61,Female,65+,Auckland,1
+v62,Male,18-24,Wellington,1
+v62,Male,25-34,Auckland,1
+v62,Male,55-64,Rest of South Is.,2
+v62,Male,65+,Rest of North Is.,1
+v62,Female,18-24,Auckland,1
+v62,Female,35-44,Canterbury,1
+v62,Female,45-54,Wellington,1
+v63,Male,25-34,Rest of North Is.,1
+v63,Male,35-44,Canterbury,2
+v63,Male,45-54,Wellington,1
+v63,Male,55-64,Rest of North Is.,1
+v63,Male,65+,Wellington,1
+v63,Female,35-44,Canterbury,1
+v64,Male,18-24,Canterbury,1
+v64,Male,35-44,Rest of North Is.,1
+v64,Male,45-54,Auckland,1
+v64,Female,18-24,Auckland,1
+v64,Female,25-34,Rest of North Is.,1
+v64,Female,45-54,Auckland,1
+v64,Female,65+,Auckland,1
+v65,Male,25-34,Rest of North Is.,1
+v65,Male,35-44,Wellington,1
+v65,Male,45-54,Auckland,1
+v65,Male,55-64,Rest of South Is.,1
+v65,Female,35-44,Auckland,1
+v65,Female,45-54,Auckland,1
+v65,Female,55-64,Rest of North Is.,1
+v66,Male,35-44,Canterbury,1
+v66,Male,55-64,Canterbury,1
+v66,Male,65+,Wellington,2
+v66,Female,25-34,Auckland,1
+v66,Female,45-54,Rest of South Is.,1
+v67,Male,18-24,Rest of North Is.,1
+v67,Male,25-34,Rest of South Is.,2
+v67,Male,35-44,Canterbury,1
+v67,Female,35-44,Auckland,1
+v67,Female,65+,Rest of North Is.,1
+v68,Male,25-34,Auckland,1
+v68,Male,45-54,Rest of South Is.,1
+v68,Male,55-64,Auckland,1
+v68,Female,18-24,Rest of South Is.,1
+v69,Male,45-54,Auckland,1
+v69,Female,35-44,Rest of South Is.,1
+v69,Female,55-64,Wellington,1
+v70,Male,25-34,Wellington,1
+v70,Male,35-44,Rest of South Is.,1
+v70,Male,65+,Auckland,1
+v71,Male,25-34,Rest of North Is.,1
+v71,Male,65+,Auckland,1
+v72,Female,25-34,Rest of North Is.,1
+v72,Female,25-34,Rest of South Is.,1
+v73,Male,18-24,Auckland,1
+v73,Male,45-54,Rest of South Is.,1
+v74,Female,45-54,Auckland,1
+v74,Female,55-64,Rest of South Is.,1
+v75,Male,55-64,Rest of South Is.,1
+v75,Female,45-54,Auckland,1
+v76,Female,25-34,Rest of South Is.,1
+v77,Male,45-54,Wellington,1
